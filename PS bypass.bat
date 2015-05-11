@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy ByPass ./cudpull.ps1
