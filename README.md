@@ -5,15 +5,10 @@ CUD_Receiver Database
 
 This project is not supported either by Mark Dyson or IT Services.
 
+The last version of the project released by Mark Dyson can be found in the
+commit history. 
+
 Please contact iam@it.ox.ac.uk for further information.
 
+A 
 
-
-
-Please see the following documentation:
-
-* CUD Web Service Access Instructions.docx
-* CUD XML to CUD_Receiver SQL DB Tables.docx
-
-Mark Dyson
-May 2015
